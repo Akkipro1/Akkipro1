@@ -31,7 +31,7 @@ Creating things that live on the internet is a passion. A passionate Developer ğ
 
 # ğŸŒ Socials:
 <a href="https://www.linkedin.com/in/uttam-mane-036252291/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" /></a>
-<a href="https://instagram.com/mr_uttam_mane_101"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" /></a>
+<a href="https://instagram.com/akshay_p_a_t_i_l_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" /></a>
 
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
